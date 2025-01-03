@@ -1,0 +1,12 @@
+id,productCode,lotNumber,action,quantity,userName,timestamp
+1,upi://pay?pa=srivatsajoshi2005@oksbi&pn=srivatsa%20Joshi&aid=uGICAgMDQrvv_XA,123,Add,1,,2024-12-23 18:01:20
+2,https://wa.me/qr/HNSLD5ONGJ5YK1,567,Add,1,,2024-12-26 16:43:42
+3,upi://pay?pa=8885193750@axl&pn=******3750&mc=0000&mode=02&purpose=00,45,Add,5,,2024-12-26 16:46:29
+4,upi://pay?pa=8885193750@axl&pn=******3750&mc=0000&mode=02&purpose=00,45,Remove,5,,2024-12-26 16:48:18
+5,upi://pay?pa=8885193750@axl&pn=******3750&mc=0000&mode=02&purpose=00,45,Add,10,,2024-12-26 16:50:30
+6,upi://pay?pa=8885193750@axl&pn=******3750&mc=0000&mode=02&purpose=00,45,Add,5,,2024-12-26 16:55:25
+7,upi://pay?pa=8885193750@axl&pn=******3750&mc=0000&mode=02&purpose=00,45,Add,5,,2024-12-26 16:58:12
+8,upi://pay?pa=8885193750@axl&pn=******3750&mc=0000&mode=02&purpose=00,45,Remove,5,,2024-12-26 17:02:02
+9,upi://pay?pa=8885193750@axl&pn=******3750&mc=0000&mode=02&purpose=00,45,Add,10,,2024-12-26 17:18:03
+10,upi://pay?pa=8885193750@axl&pn=******3750&mc=0000&mode=02&purpose=00,45,Remove,1000,,2024-12-26 17:19:02
+11,upi://pay?pa=8885193750@axl&pn=******3750&mc=0000&mode=02&purpose=00,45,Remove,60,,2024-12-26 17:19:51
